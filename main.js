@@ -26,4 +26,4 @@ function prevSlide () {
 }
 
 next.addEventListener('click', nextSlide);
-prev.add
+prev.addEventListener('click', prevSlide);
